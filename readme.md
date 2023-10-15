@@ -1,5 +1,5 @@
 <h1>Como crear una explosión de confeti:</h1>
-![confeti](./assets/confeti.png)
+<img src="./assets/confeti.png" alt="confeti">
 
 Tienes que seguir los siguientes pasos:
 1. Lo primero que tienes que hacer es enlazar tu Html con el Css y el Js:
@@ -10,4 +10,4 @@ Tienes que seguir los siguientes pasos:
 
 ¡Espero que te sea útil!
 
-Aquí puedes probar el resultado: [link]()
+Aquí puedes probar el resultado: [link](https://barberomiguel.github.io/confeti/)
